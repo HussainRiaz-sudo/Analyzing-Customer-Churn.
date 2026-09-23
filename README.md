@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/HussainRiaz-sudo/HussainRiaz-sudo@main/assets/project-banners/churn-banner.jpg" alt="Analyzing Customer Churn Banner" width="100%" />
+</p>
+
 # 📊 Telecom Customer Churn Analysis — Databel Dataset
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Modeling_%26_EDA-2D6A4F?style=for-the-badge&logo=microsoftexcel&logoColor=white)](Analyzing_Customer_Churn.xlsx)
